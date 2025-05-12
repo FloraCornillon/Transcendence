@@ -25,6 +25,6 @@ Here's a preview of the game:
 This project exists thanks to all the people who contribute.
 
 ### List of Contributors:
-- [Nom Contributeur 1](https://github.com/Jeremy-coquet)
-- [Nom Contributeur 2](https://github.com/jeankersen)
-- [Nom Contributeur 3](https://github.com/kioanhfortin)
+- [Jcoquet](https://github.com/Jeremy-coquet)
+- [Jkersen](https://github.com/jeankersen)
+- [Kfortin](https://github.com/kioanhfortin)
