@@ -19,3 +19,12 @@ You can find the project subject [here](./en.subject.pdf).
 Here's a preview of the game:
 
 ![Pong Game](./transcendence.png).
+
+## Contributors
+
+This project exists thanks to all the people who contribute.
+
+### List of Contributors:
+- [Nom Contributeur 1](https://github.com/Jeremy-coquet)
+- [Nom Contributeur 2](https://github.com/jeankersen)
+- [Nom Contributeur 3](https://github.com/kioanhfortin)
